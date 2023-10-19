@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Work on Pronote Bot multi-user<br>👯 Work on discord bot multi-tools<br>🤝 Work on Wicked Life FA - FiveM<br>🌱 work on SpaceLife RP WL - FiveM<br>💬 Work on https://jellybox.fr web site<br>⚡ Learn NuxtJS
+🔭 Work on Pronote Bot multi-user<br>👯 Work on discord bot multi-tools<br>🤝 Work on Wicked Life FA - FiveM<br>🌱 Work on SpaceLife RP WL - FiveM<br>💬 Work on https://jellybox.fr web site<br>⚡ Learn NuxtJS
 
 
 ## 🌐 Socials:
