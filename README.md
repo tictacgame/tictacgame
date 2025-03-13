@@ -19,7 +19,7 @@
 
 ---
 
-## Projects
+## Some Projects
 
 ### Settings UP
 - Technologies Used: Only C
